@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class rock : obj
+{
+
+  
+    // Start is called before the first frame update
+    void Start()
+    {
+        pushable = true;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+
+    }
+  
+    
+}
